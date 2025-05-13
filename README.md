@@ -102,7 +102,7 @@ Motiva is more than just a chatbot—it’s an AI companion that listens, adapts
 - [1. Overview](/1_Overview.ipynb)
 - [2. Visual Explanation of Model](/2_User_Pathways.ipynb)
 - [3. Exploration](/3_Exploration.ipynb)
-- **Model Design**
-- **Project Evaluation**
+- [4. Model Making](/4_Model_Making.ipynb)
+- [5. Evaluations](/5_Evaluations.ipynb)
 
 ---

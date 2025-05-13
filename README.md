@@ -1,6 +1,6 @@
 # COMM4190 Final Project: Motiva  
 **An AI Running Coach for Everyday Athletes**  
-By [Your Name]
+By Jenn Deng
 
 ---
 

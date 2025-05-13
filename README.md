@@ -99,7 +99,7 @@ Motiva is more than just a chatbot—it’s an AI companion that listens, adapts
 
 ## Check Out the Other Notebooks!
 
-- **Overview**
+- [Overview](/1_Overview.ipynb)
 - **User Case Flow Charts**
 - **Evaluating Existing LLMs**
 - **Model Design**
